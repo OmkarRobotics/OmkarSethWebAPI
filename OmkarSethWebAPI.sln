@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OmkarSethWebAPI", "OmkarSethWebAPI\OmkarSethWebAPI.csproj", "{62962778-48B2-422B-9F22-9E241E3D7515}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62962778-48B2-422B-9F22-9E241E3D7515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62962778-48B2-422B-9F22-9E241E3D7515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62962778-48B2-422B-9F22-9E241E3D7515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62962778-48B2-422B-9F22-9E241E3D7515}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E259C034-FF63-4546-B1C8-7BF5E04AAA98}
+	EndGlobalSection
+EndGlobal
